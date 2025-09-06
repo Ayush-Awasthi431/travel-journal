@@ -6,7 +6,7 @@ Displays a list of travel destinations dynamically from a data file, with clean,
 ---
 
 ## 🚀 Live Demo
-[🔗 View Project Here](https://your-deployment-link.com)  
+[🔗 View Project Here](https://ayush-awasthi431.github.io/travel-journal/)  
 
 ---
 
@@ -36,7 +36,7 @@ Clone this repository and run the project locally:
 
 ```bash
 # 1️⃣ Clone repository
-git clone https://github.com/YOUR_USERNAME/travel-journal.git
+git clone https://github.com/Ayush-Awasthi431/travel-journal.git
 
 # 2️⃣ Go into the project folder
 cd travel-journal
